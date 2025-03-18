@@ -1,4 +1,5 @@
 # scm-assignment
+https://s23-git.github.io/scm-assignment/
 ##DESCRIPTION
 A brief overview of the project
 
@@ -41,4 +42,3 @@ Here is a simple **HTML & CSS** snippet from the project:
     <button class="btn">Click Me!</button>
 </body>
 </html>
-https://s23-git.github.io/scm-assignment/
